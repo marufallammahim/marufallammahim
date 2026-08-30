@@ -7,16 +7,16 @@ A passionate developer who builds clean, reliable, and delightful software. I lo
 ---
 
 ## 🔭 About Me
-- 🔧 I build web & backend applications, developer tools, and automation.
+- 🔧 I build web & backend applications,shortcut tools, and Android Application For using My Usege.
 - 🌱 I’m always learning new languages, architectures, and best practices.
 - 💬 Ask me about software design, testing, APIs, and developer experience.
-- ⚡ Fun fact: I enjoy turning messy data into elegant solutions.
+- ⚡ Fun fact: I enjoy turning messy data into elegant solutions and new feture.
 
 ---
 
 ## 🛠️ Core Skills
-- Languages: JavaScript / TypeScript, Python, Go (add yours)
-- Frameworks & Tools: React, Node.js, Express
+- Languages: I'm Learning JAVA as well and Python! / Python, Kotlin, And C Basic.
+- Frameworks & Tools I Use: React, Node.js -- Work in VS Code on ARCH LINUX!
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufallammahim&layout=compact)
