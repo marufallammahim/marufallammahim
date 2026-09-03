@@ -1,187 +1,522 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MARUF%20ALLAM%20MAHIM&fontSize=48&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=60&animation=fadeIn&color=0:000000,100:63000D" width="100%" alt="Maruf Allam Mahim"/><br><a href="https://github.com/marufallammahim">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1000&color=63000D&center=true&vCenter=true&width=720&lines=Python+%7C+Kotlin+%7C+Java+%7C+C;Web+%26+Backend+Developer;Android+Application+Developer;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
-</a><br><br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MARUF%20ALLAM%20MAHIM&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=17&descAlignY=60&descColor=F5F5F5&animation=fadeIn&color=63000D" width="100%" alt="Maruf Allam Mahim"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E6A8AF&center=true&vCenter=true&width=720&lines=Python+%7C+Kotlin+%7C+Java+%7C+C;Web+%26+Backend+Developer;Android+Application+Developer;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
+
+<br><br>
 
 <a href="https://github.com/marufallammahim">
 <img src="https://komarev.com/ghpvc/?username=marufallammahim&label=PROFILE%20VIEWS&color=63000D&style=for-the-badge" alt="Profile Views"/>
-</a><a href="https://github.com/marufallammahim?tab=followers">
-<img src="https://img.shields.io/github/followers/marufallammahim?style=for-the-badge&color=63000D&labelColor=000000" alt="GitHub Followers"/>
-</a></div>---
+</a>
 
-👋 About Me
+&nbsp;
 
-I'm Maruf Allam Mahim, a passionate developer who enjoys turning ideas into practical, reliable, and maintainable software.
+<a href="https://github.com/marufallammahim?tab=followers">
+<img src="https://img.shields.io/github/followers/marufallammahim?label=FOLLOWERS&style=for-the-badge&color=63000D&labelColor=161616" alt="GitHub Followers"/>
+</a>
 
-I build web applications, backend systems, Android applications, developer utilities, and automation tools while continuously exploring new technologies and software engineering practices.
+</div>
 
-┌─────────────────────────────────────────────────────┐
-│                    MARUF ALLAM MAHIM                │
-├─────────────────────────────────────────────────────┤
-│ 💻 Focus       Web • Backend • Android              │
-│ 🐍 Languages   Python • Kotlin • Java • C           │
-│ 🐧 Environment Arch Linux                            │
-│ 📝 Editor      VS Code                              │
-│ 🌱 Learning    Architecture • Distributed Systems  │
-│ 🤝 Interested  Open Source • Collaboration          │
-└─────────────────────────────────────────────────────┘
+<br>
 
 ---
 
-🧑‍💻 What I Do
+## 👋 About Me
 
-- 🔧 Build web and backend applications
-- 📱 Develop Android applications and personal utilities
-- 🐍 Learn and build with Python
-- ☕ Deepen my knowledge of Java
-- 🟣 Build Android projects with Kotlin
-- ⚙️ Explore C fundamentals
-- 🛠️ Create shortcuts, automation tools, and developer utilities
-- 🧠 Study software architecture and system design
-- 💡 Turn complex problems into simple solutions
+Hi, I'm **Maruf Allam Mahim** — a passionate developer who enjoys turning ideas into **useful, reliable, and maintainable software**.
+
+I like building things that solve real problems, exploring how systems work under the hood, and continuously improving my development skills.
+
+My interests include **web development, backend engineering, Android applications, automation, developer utilities, APIs, and software architecture**.
+
+<div align="center">
+
+> **Build things. Understand them. Improve them.**
+
+</div>
 
 ---
 
-🛠️ Tech Stack
+## 🧑‍💻 Quick Overview
 
-<div align="center">Languages
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,javascript" alt="Languages"/><br><br>
+| | |
+| :--- | :--- |
+| 💻 **Focus** | Web • Backend • Android |
+| 🐍 **Languages** | Python • Kotlin • Java • C |
+| 🌐 **Web** | React • Node.js • HTML • CSS |
+| 🐧 **OS** | Arch Linux |
+| 📝 **Editor** | VS Code |
+| 🛠️ **Interests** | APIs • Automation • System Design |
+| 🌱 **Currently Learning** | Architecture • Distributed Systems • MLOps |
 
-Web & Backend
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" alt="Web and Backend"/><br><br>
+---
 
-Tools & Environment
+# 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools and Environment"/></div>---
+<div align="center">
 
-🚀 What I Like Building
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,javascript" alt="Programming Languages"/>
+
+<br><br>
+
+### 🌐 Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" alt="Web and Backend"/>
+
+<br><br>
+
+### 🧰 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+
+</div>
+
+---
+
+# 🚀 What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">🌐 Web & Backend
+<td width="50%" valign="top">
 
-Web applications, APIs, backend services, and practical tools designed with clean and maintainable architecture.
+## 🌐 Web & Backend
 
-</td><td width="50%" valign="top">📱 Android
-
-Android applications and personal utilities focused on solving real-world problems.
+I build web applications, APIs, backend services, and practical tools with an emphasis on clean and maintainable code.
 
 </td>
-</tr><tr>
-<td width="50%" valign="top">🛠️ Developer Tools
 
-Small utilities, shortcuts, automation, and tools that make everyday development easier.
+<td width="50%" valign="top">
 
-</td><td width="50%" valign="top">🧪 Experiments
+## 📱 Android
 
-Learning by building—exploring new technologies, architectures, APIs, and ideas through hands-on projects.
+I create Android applications and personal utilities focused on solving practical, everyday problems.
 
 </td>
 </tr>
-</table>---
 
-📊 GitHub Analytics
+<tr>
+<td width="50%" valign="top">
 
-<div align="center"><a href="https://github.com/marufallammahim">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=marufallammahim&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=63000D&icon_color=63000D&text_color=C9D1D9" alt="GitHub Stats"/>
-</a><a href="https://github.com/marufallammahim">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufallammahim&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=63000D&text_color=C9D1D9" alt="Top Languages"/>
-</a><br><br>
+## 🛠️ Developer Tools
+
+I enjoy creating small utilities, shortcuts, scripts, and automation tools that make repetitive tasks easier.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 Experiments
+
+I learn by building — experimenting with new technologies, architectures, APIs, and development ideas.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+### 🏗️ Software Architecture
+
+`System Design` • `Clean Architecture` • `Scalability`
+
+### 🌐 Distributed Systems
+
+`Event-Driven Architecture` • `CQRS` • `Scalable Systems`
+
+### 📡 Observability
+
+`Monitoring` • `Logging` • `Reliability`
+
+### 🤖 Machine Learning
+
+`Model Deployment` • `MLOps`
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
 
 <a href="https://github.com/marufallammahim">
-<img src="https://streak-stats.demolab.com?user=marufallammahim&theme=dark&hide_border=true&background=0D1117&ring=63000D&fire=63000D&currStreakLabel=63000D" alt="GitHub Streak"/>
-</a></div>---
 
-🧠 Currently Learning
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=marufallammahim&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=E6A8AF&icon_color=E6A8AF&text_color=C9D1D9" alt="GitHub Statistics"/>
 
-Distributed Systems
-        │
-        ├── Event-Driven Architecture
-        ├── CQRS
-        └── Scalable Systems
+</a>
 
-Observability
-        │
-        ├── Monitoring
-        ├── Logging
-        └── Reliability
+&nbsp;&nbsp;
 
-Machine Learning
-        │
-        ├── Model Deployment
-        └── MLOps
+<a href="https://github.com/marufallammahim">
 
-Software Engineering
-        │
-        ├── System Design
-        ├── Architecture
-        └── Best Practices
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufallammahim&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=E6A8AF&text_color=C9D1D9" alt="Top Languages"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/marufallammahim">
+
+<img src="https://streak-stats.demolab.com?user=marufallammahim&theme=dark&hide_border=true&background=0D1117&ring=63000D&fire=E6A8AF&currStreakLabel=E6A8AF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
+
+</a>
+
+</div>
+
+---
+---
+
+# 🔭 What I'm Exploring
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🏗️
+
+**Software Architecture**
+
+System Design  
+Clean Architecture  
+Scalability
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐
+
+**Distributed Systems**
+
+Scalable Systems  
+Distributed Computing  
+System Reliability
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡
+
+**Event-Driven**
+
+Event-Driven Architecture  
+Message-Based Systems  
+Asynchronous Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🔄
+
+**CQRS**
+
+Command & Query Separation  
+Data Flow  
+Application Design
+
+</td>
+
+<td align="center" width="33%">
+
+### 📡
+
+**Observability**
+
+Monitoring  
+Logging  
+Reliability
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+
+**Machine Learning**
+
+Model Deployment  
+ML Systems  
+MLOps
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### ⚙️
+
+**MLOps**
+
+Model Lifecycle  
+Automation  
+Production ML
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔌
+
+**API Engineering**
+
+API Design  
+Integrations  
+Backend Services
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧩
+
+**Automation**
+
+Developer Tools  
+Scripts  
+Productivity
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 🌱 **Learning by building, experimenting, breaking, and improving.**
+
+</div>
 
 ---
 
-🐧 Development Environment
+# 🤝 Open to Collaboration
 
-<div align="center"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></div>---
+<div align="center">
 
-🔭 What I'm Exploring
+<table>
+<tr>
 
-- 🏗️ Software architecture
-- 🌐 Distributed systems
-- ⚡ Event-driven architecture
-- 🔄 CQRS
-- 📡 Observability and monitoring
-- 🤖 Machine learning deployment
-- ⚙️ MLOps
-- 🔌 API design
-- 🧩 Automation
-- 📱 Android development
+<td align="center" width="25%">
+
+### 🌱
+
+**Open Source**
+
+Contributing to projects  
+and learning together.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️
+
+**Developer Tools**
+
+Building useful tools,  
+utilities & automation.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Backend & Platform**
+
+APIs, backend systems  
+and infrastructure.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💡
+
+**Ideas & Projects**
+
+Interesting ideas,  
+experiments & collaborations.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> **Have an interesting idea? Let's build it together.** 🚀
+
+</div>
 
 ---
 
-🤝 Open to Collaboration
+# 📫 Connect With Me
 
-I'm interested in collaborating on:
+<div align="center">
 
-- 🌱 Open-source projects
-- 🛠️ Developer tools
-- 🌐 Backend and platform engineering
-- 📱 Android applications
-- 🤖 Automation projects
-- 💡 Interesting technical ideas
-
-«Have an interesting idea? Let's build it.»
-
----
-
-📫 Connect With Me
-
-<div align="center"><a href="https://github.com/marufallammahim">
+<a href="https://github.com/marufallammahim">
 <img src="https://img.shields.io/badge/GitHub-63000D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a><a href="https://www.facebook.com/marufallammahim">
+</a>
+
+<a href="https://www.facebook.com/marufallammahim">
 <img src="https://img.shields.io/badge/Facebook-63000D?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a></div>---
+</a>
 
-🐍 Contribution Snake
+<br><br>
 
-<div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marufallammahim/marufallammahim/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marufallammahim/marufallammahim/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/marufallammahim/marufallammahim/output/github-snake.svg">
-</picture></div>---
+**Feel free to reach out, collaborate, or just say hello. 👋**
 
-💭 Developer Philosophy
+</div>
 
-<div align="center">"Build → Break → Understand → Improve"
+---
 
-<br>«Good software isn't only about making things work.
+# 🐍 Contribution Snake
 
-It's about making complicated things feel simple.»
+<div align="center">
 
-</div>---
+<picture>
 
-<div align="center">⭐ Thanks for visiting my profile!
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/marufallammahim/marufallammahim/output/github-snake-dark.svg">
 
-Let's build something awesome together.
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/marufallammahim/marufallammahim/output/github-snake.svg">
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:63000D,100:000000" width="100%" alt="Footer"/></div>
+  <img
+    src="https://raw.githubusercontent.com/marufallammahim/marufallammahim/output/github-snake.svg"
+    alt="GitHub Contribution Snake">
+
+</picture>
+
+<br>
+
+<sub>🐍 My contributions, one commit at a time.</sub>
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+### `BUILD` → `BREAK` → `UNDERSTAND` → `IMPROVE`
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+🔨 **BUILD**
+
+<br>
+
+Create something  
+useful and meaningful.
+
+</td>
+
+<td align="center">
+
+💥 **BREAK**
+
+<br>
+
+Find problems  
+and weaknesses.
+
+</td>
+
+<td align="center">
+
+🧠 **UNDERSTAND**
+
+<br>
+
+Learn why  
+things work.
+
+</td>
+
+<td align="center">
+
+✨ **IMPROVE**
+
+<br>
+
+Make it cleaner,  
+better & simpler.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> **Good software isn't about making things complicated.**
+>
+> **It's about making complicated things feel simple.**
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=63000D" width="100%" alt="Footer"/>
+
+<br>
+
+## ⭐ Thanks for visiting my profile!
+
+### Let's build something awesome together. 🚀
+
+<br>
+
+<a href="https://github.com/marufallammahim">
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Code-63000D?style=for-the-badge" alt="Made with Love and Code"/>
+</a>
+
+</div>
