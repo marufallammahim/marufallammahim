@@ -32,7 +32,7 @@ jobs:
 
       - name: Generate analytics from every public repository and branch
         env:
-          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_OWNER: marufallammahim
         run: python .github/scripts/generate_all_branch_analytics.py
 
