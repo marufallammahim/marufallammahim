@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - ".github/workflows/profile-analytics.yml"
+      - ".github/scripts/generate_all_branch_analytics.py"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -17,27 +18,23 @@ concurrency:
 
 jobs:
   update-analytics:
-    name: Generate GitHub Stats and Top Languages
+    name: Generate All-Repository, All-Branch Analytics
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Statistics
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          card: stats
-          options: username=marufallammahim&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=E6A8AF&icon_color=E6A8AF&text_color=C9D1D9
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.x"
 
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=marufallammahim&layout=compact&langs_count=6&hide_border=true&theme=dark&bg_color=0D1117&title_color=E6A8AF&text_color=C9D1D9
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate analytics from every public repository and branch
+        env:
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+          GITHUB_OWNER: marufallammahim
+        run: python .github/scripts/generate_all_branch_analytics.py
 
       - name: Commit updated analytics cards
         run: |
@@ -45,5 +42,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/stats.svg profile/top-langs.svg
           git diff --cached --quiet && exit 0
-          git commit -m "chore: update GitHub profile analytics"
+          git commit -m "chore: update all-branch GitHub analytics"
           git push
