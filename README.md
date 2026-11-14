@@ -160,7 +160,7 @@ I learn by building — experimenting with new technologies, architectures, APIs
 
 <a href="https://github.com/marufallammahim">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=marufallammahim&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=E6A8AF&icon_color=E6A8AF&text_color=C9D1D9" alt="GitHub Statistics"/>
+<img height="180" src="./profile/stats.svg" alt="GitHub Statistics"/>
 
 </a>
 
@@ -168,7 +168,7 @@ I learn by building — experimenting with new technologies, architectures, APIs
 
 <a href="https://github.com/marufallammahim">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufallammahim&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=E6A8AF&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </a>
 
