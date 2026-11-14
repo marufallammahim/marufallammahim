@@ -1,6 +1,9 @@
 name: Update GitHub Profile Analytics
 
 on:
+  push:
+    paths:
+      - ".github/workflows/profile-analytics.yml"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
