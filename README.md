@@ -168,7 +168,7 @@ I learn by building — experimenting with new technologies, architectures, APIs
 
 <a href="https://github.com/marufallammahim">
 
-<img height="10000" src="./profile/top-langs.svg" alt="Top Languages"/>
+<img height="1000000" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </a>
 
